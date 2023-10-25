@@ -29,5 +29,5 @@ class Primes:
 
 
 S = Primes(100)
-print S.getPrimes()
-print S.isPrime(97)
+print (S.getPrimes())
+print (S.isPrime(97))
